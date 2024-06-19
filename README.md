@@ -1,4 +1,8 @@
-Bellabeat 
+# How Can a Wellness Technology Company Play It Smart? 
+
+## Google Data Analytics Case Study
+
+### Bellabeat 
 -specializes in creating fitness products specifically aimed at women, such as smart water bottles, fashionable fitness watches and jewelry, and yoga mats. Users can monitor their health data collected by these devices through the Bellabeat app. Bellabeat’s co-founders are interested in examining data from non-Bellabeat fitness devices in order to understand how consumers utilize these products. The company hopes to leverage these insights to shape new marketing strategies.
 
 Ask
